@@ -1,39 +1,32 @@
 {
-  "r": [
-    {
-      "n": "repair-a-desktop",
-      "status": 200,
-      "over": false
+  "mobileMenu": {
+    "initial": {
+      "text": "Menu",
+      "controls": "primary-navigation",
+      "expanded": "false",
+      "id": "primary-navigation"
     },
-    {
-      "n": "repair-a-mobile",
-      "status": 200,
-      "over": false
+    "opened": {
+      "expanded": "true",
+      "open": true
     },
-    {
-      "n": "repair-b-desktop",
-      "status": 200,
-      "over": false
-    },
-    {
-      "n": "repair-b-mobile",
-      "status": 200,
-      "over": false
-    },
-    {
-      "editor": {
-        "added": true,
-        "sermonDeleted": true,
-        "eventDeleted": false,
-        "homeUpdated": false,
-        "noResult": true,
-        "recovered": true,
-        "importsPreserved": true,
-        "reset": true,
-        "restored": true,
-        "classification": "runtime local ISO comparison implemented in assets/app.js"
-      }
+    "closed": {
+      "expanded": "false",
+      "open": false
     }
-  ],
+  },
+  "date": {
+    "today": "2026-07-20",
+    "renderedEnAU": true,
+    "classifications": {
+      "past": true,
+      "today": true,
+      "future": true
+    }
+  },
+  "editorDeleteStatus": {
+    "sermonStatus": true,
+    "eventStatus": true
+  },
   "errors": []
 }
