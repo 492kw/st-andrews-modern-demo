@@ -1,0 +1,12 @@
+{
+  "editor_end_to_end": {
+    "sermon_create_edit_delete": true,
+    "event_create_delete": true,
+    "basic_content_public_same_browser_update": true,
+    "sermon_search_no_result_and_recovery": true,
+    "malformed_missing_wrong_type_duplicate_and_invalid_date_imports_preserved_current_data": true,
+    "export_reset_import_restore": true,
+    "date_classification": "Runtime local calendar ISO comparison implemented and checked in assets/app.js. Past, today and future partitions use the local YYYY-MM-DD string."
+  },
+  "browser_console_errors": []
+}
