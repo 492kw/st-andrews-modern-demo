@@ -1,0 +1,49 @@
+{
+  "site": {
+    "headline": "Updated in the browser",
+    "welcome": "Come along exactly as you are. We gather every Sunday to hear God's word, sing, pray and share time together."
+  },
+  "sermons": [
+    {
+      "id": "s1784551018622",
+      "title": "Browser verification sermon",
+      "date": "2026-08-02",
+      "speaker": "Demo editor",
+      "passage": "John 3:16"
+    },
+    {
+      "id": "s1",
+      "date": "2026-07-19",
+      "title": "Matthew 6:12: The Lord's Prayer, Talk 4",
+      "speaker": "Damon Scott",
+      "passage": "Matthew 6:12"
+    },
+    {
+      "id": "s2",
+      "date": "2026-07-12",
+      "title": "Matthew 6:11: The Lord's Prayer, Talk 3",
+      "speaker": "Damon Scott",
+      "passage": "Matthew 6:11"
+    }
+  ],
+  "events": [
+    {
+      "id": "e1",
+      "title": "Sunday services",
+      "date": "2026-07-26",
+      "detail": "Updated during browser verification."
+    },
+    {
+      "id": "e2",
+      "date": "2026-07-31",
+      "title": "Pressy Youth Townsville",
+      "detail": "Grades 7 to 12, Friday during school term at Willows Presbyterian Church."
+    },
+    {
+      "id": "e3",
+      "date": "2026-06-28",
+      "title": "Sunday services",
+      "detail": "A past regular gathering example."
+    }
+  ]
+}

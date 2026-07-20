@@ -1,0 +1,35 @@
+{
+  "report": [
+    {
+      "name": "a-desktop",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "name": "a-mobile",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "name": "b-desktop",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "name": "b-mobile",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "editor": {
+        "sermonAdded": true,
+        "homeUpdated": true,
+        "sermonsUpdated": true,
+        "eventsUpdated": true,
+        "resetGone": true,
+        "imported": true
+      }
+    }
+  ],
+  "errors": []
+}
