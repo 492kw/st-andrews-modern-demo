@@ -1,23 +1,7 @@
-# St Andrew's Townsville modern static proposal
+# St Andrew's Townsville B demo
 
-A concept demo, not an official church website. Static HTML, CSS and JavaScript only.
+Non-official static concept. Run `python3 -m http.server 8000` at repository root. Do not open with `file://`, because modules, fetch and localStorage workflows require HTTP.
 
-## Run locally
+GitHub Pages: deploy `main` from `/`. Cloudflare Pages: no build command, output `/`. Office PC: `python3 -m http.server 8000 --bind 0.0.0.0`.
 
-Clone the repository then run `python3 -m http.server 8000` from the repository root. Open `http://localhost:8000/`. Do not use `file://`: browser storage, imports and relative route testing can behave differently.
-
-## GitHub Pages
-
-Deploy from `main` and `/` in GitHub Pages settings.
-
-## Cloudflare Pages
-
-Connect the repository or direct-upload this folder. Build command: none. Build output directory: `/`.
-
-## Office PC
-
-Run `python3 -m http.server 8000 --bind 0.0.0.0` from the repo root.
-
-## Content backup and restore
-
-Use **Manage demo** to export JSON before browser data is cleared, then import that JSON to restore it. Data is stored only in localStorage for this demo. `data.json` is the baseline schema and `assets/site.js` provides the storage boundary.
+Content baseline is `content/data.json`; `assets/storage-adapter.js` loads it and provides the localStorage replacement point. Export JSON before clearing browser storage and import it to restore.

@@ -1,0 +1,42 @@
+{
+  "site": {
+    "headline": "A clearer way to plan your Sunday",
+    "welcome": "Find service times, children\u2019s programs, parking and a way to get in touch before you arrive."
+  },
+  "sermons": [
+    {
+      "id": "s1",
+      "date": "2026-07-19",
+      "title": "Matthew 6:12: The Lord\u2019s Prayer, Talk 4",
+      "speaker": "Damon Scott",
+      "passage": "Matthew 6:12"
+    },
+    {
+      "id": "s2",
+      "date": "2026-07-12",
+      "title": "Matthew 6:11: The Lord\u2019s Prayer, Talk 3",
+      "speaker": "Damon Scott",
+      "passage": "Matthew 6:11"
+    }
+  ],
+  "events": [
+    {
+      "id": "e1",
+      "date": "2026-07-20",
+      "title": "Sunday services",
+      "detail": "9:00am traditional service and 10:30am contemporary service at 119 Wills Street."
+    },
+    {
+      "id": "e2",
+      "date": "2026-09-21",
+      "title": "NQ Extreme",
+      "detail": "Public source event for high schoolers from 21 to 25 September."
+    },
+    {
+      "id": "e3",
+      "date": "2026-07-19",
+      "title": "Sunday services",
+      "detail": "Past service example."
+    }
+  ]
+}

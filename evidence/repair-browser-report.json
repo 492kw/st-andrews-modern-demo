@@ -1,0 +1,39 @@
+{
+  "r": [
+    {
+      "n": "repair-a-desktop",
+      "status": 200,
+      "over": false
+    },
+    {
+      "n": "repair-a-mobile",
+      "status": 200,
+      "over": false
+    },
+    {
+      "n": "repair-b-desktop",
+      "status": 200,
+      "over": false
+    },
+    {
+      "n": "repair-b-mobile",
+      "status": 200,
+      "over": false
+    },
+    {
+      "editor": {
+        "added": true,
+        "sermonDeleted": true,
+        "eventDeleted": false,
+        "homeUpdated": false,
+        "noResult": true,
+        "recovered": true,
+        "importsPreserved": true,
+        "reset": true,
+        "restored": true,
+        "classification": "runtime local ISO comparison implemented in assets/app.js"
+      }
+    }
+  ],
+  "errors": []
+}
